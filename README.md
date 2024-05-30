@@ -11,3 +11,8 @@ The Contact Managing is deployed and can be accessed here. DEMO-> (https://menda
   * This feature helps in keeping the contact list organized and up-to-date.
 3. Responsive Design:
   * The application is designed to be responsive, ensuring it works well on various devices including desktops, tablets, and smartphones.
+
+# Technical Details:
+* HTML: Provides the structure of the application, including forms for adding contacts and sections for displaying contact lists.
+* CSS: Styles the application, making it visually appealing and ensuring a consistent layout. Responsive design techniques are used to enhance usability on different screen sizes.
+* JavaScript: Implements the core functionality, including adding and deleting contacts. JavaScript handles the data manipulation and updates the DOM dynamically to reflect changes in the contact list.
