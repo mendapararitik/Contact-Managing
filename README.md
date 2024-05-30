@@ -2,6 +2,7 @@
 This project is a Contact Management application developed using HTML, CSS, and JavaScript. The application provides a user-friendly interface for managing personal and professional contacts efficiently.
 # Deployed Version
 The Contact Managing is deployed and can be accessed here. DEMO-> (https://mendapararitik.github.io/Contact-Managing/)Contact Managing Project
+![image](https://github.com/mendapararitik/Contact-Managing/assets/136411698/4201aa04-8255-43cc-80f9-6dd97ca5f7ef)
 # Features:
 1. Add Contacts:
   * Users can add new contacts by entering details such as name, phone number, email address, and notes.
